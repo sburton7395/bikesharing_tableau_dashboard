@@ -28,9 +28,9 @@ Peak hours on weekdays were 7:00-9:00am and 5:00-7:00pm, and were fairly evenly 
 A similar map was created to show the total number of trips per gender over each day of the week, separated by one-time customers and subscribers. There are significantly more subscribers using the Citi Bike service than one-time users.
 
 ### Part 3 - Creating a Story
-![Link to Tableau story](https://public.tableau.com/app/profile/stacy.burton/viz/Citibike-Story_16816801251600/Citibike-Story?publish=yes "--Click me to see the story--")
+[--Click me to see the story--](https://public.tableau.com/app/profile/stacy.burton/viz/Citibike-Story_16816801251600/Citibike-Story?publish=yes)
 
-![Snapshot of story](citibike_story.png)
+![Snapshot of story](images/citibike_story.png)
 
 Using these visualizations as a base, a Tableau story was created to support the key findings of this analysis. Two additional visualizations were added - one map to show the places customers began their bike rides, and another to show the ending locations - as well as a slide showing the total number of rides over the course of the month.
 
