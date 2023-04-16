@@ -12,21 +12,26 @@ Using Python in Jupyter Notebook, the raw [201908-citibike-tripdata.csv] was cle
 Using Tableau, several visualizations were created:
 - How long were bikes checked out for all riders and genders?
 ![Checkout times all riders](images/checkout_all.png)
+
 Most users complete their rides within 40 minutes, with the majority of riders spending less than 20 minutes. When separated by gender, male, female, and unknown riders follow similar trends, and the large disparity between the number of male riders and the number of female/unknown riders becomes apparent.
 ![Checkout times by gender](images/checkout_gender)
 
 - How many trips are taken by the hour for each day of the week (for all riders and genders)?
 ![Time heatmap all riders](images/tripsbyweekday_all_hour.png)
+
 Peak hours on weekdays were 7:00-9:00am and 5:00-7:00pm, and were fairly evenly demanded on weekends from 11:00am-6:00pm. When separated by gender, the three categories follow similar trends, but again male riders' patterns are far more apparent than those of female and unknown riders.
 ![Time heatmap by gender](images/tripsbyweekday_gender_hour.png)
 
 - Which days of the week might a user be more likely to check out a bike, by type of user and gender?
 ![Time heatmap by day by gender](images/tripsbyweekday_gender_day.png)
+
 A similar map was created to show the total number of trips per gender over each day of the week, separated by one-time customers and subscribers. There are significantly more subscribers using the Citi Bike service than one-time users.
 
 ### Part 3 - Creating a Story
 ![Link to Tableau story](https://public.tableau.com/app/profile/stacy.burton/viz/Citibike-Story_16816801251600/Citibike-Story?publish=yes "--Click me to see the story--")
+
 ![Snapshot of story](citibike_story.png)
+
 Using these visualizations as a base, a Tableau story was created to support the key findings of this analysis. Two additional visualizations were added - one map to show the places customers began their bike rides, and another to show the ending locations - as well as a slide showing the total number of rides over the course of the month.
 
 ## Summary
