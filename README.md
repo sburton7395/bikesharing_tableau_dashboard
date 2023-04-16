@@ -14,7 +14,7 @@ Using Tableau, several visualizations were created:
 ![Checkout times all riders](images/checkout_all.png)
 
 Most users complete their rides within 40 minutes, with the majority of riders spending less than 20 minutes. When separated by gender, male, female, and unknown riders follow similar trends, and the large disparity between the number of male riders and the number of female/unknown riders becomes apparent.
-![Checkout times by gender](images/checkout_gender)
+![Checkout times by gender](images/checkout_gender.png)
 
 - How many trips are taken by the hour for each day of the week (for all riders and genders)?
 ![Time heatmap all riders](images/tripsbyweekday_all_hour.png)
